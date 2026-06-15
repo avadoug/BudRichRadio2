@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-label="Seed to surplus newspaper illustration">
+<defs><pattern id="dots2" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#15130f" opacity=".24"/></pattern></defs>
+<rect width="900" height="640" fill="#eadfbe"/><rect width="900" height="640" fill="url(#dots2)"/>
+<g stroke="#15130f" stroke-width="4" fill="none">
+<path d="M88 520h724"/><path d="M120 120h660"/><path d="M450 120v400" opacity=".35"/>
+<circle cx="180" cy="320" r="58" fill="#bf9b52"/><path d="M180 366c8-70 37-133 88-190"/><path d="M180 320c-52-20-82-57-94-110 55 11 87 50 94 110z" fill="#14391f"/><path d="M180 320c56-12 95-47 116-105-60 7-100 42-116 105z" fill="#14391f"/>
+<rect x="520" y="205" width="90" height="150" rx="9" fill="#d6c28f"/><rect x="640" y="205" width="90" height="150" rx="9" fill="#d6c28f"/><rect x="580" y="370" width="90" height="150" rx="9" fill="#d6c28f"/>
+<path d="M530 245h70M650 245h70M590 410h70"/><path d="M520 355h90M640 355h90M580 520h90"/>
+<rect x="320" y="248" width="120" height="155" fill="#f1e7ca"/><path d="M340 280h78M340 310h64M340 340h86M340 370h52"/>
+</g>
+<text x="80" y="84" font-family="Georgia,serif" font-size="43" font-weight="900" fill="#15130f">FROM COST TO SURPLUS</text>
+<text x="84" y="570" font-family="Georgia,serif" font-size="25" fill="#14391f" font-weight="900">ABUNDANCE CHANGES BEHAVIOR • KNOWLEDGE REPLACES WASTE</text>
+</svg>

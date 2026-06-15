@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-label="Bud Rich Radio newspaper studio illustration">
+<defs><filter id="rough"><feTurbulence baseFrequency="0.8" numOctaves="2" seed="9"/><feDisplacementMap in="SourceGraphic" scale="1.1"/></filter><pattern id="dots" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#15130f" opacity=".28"/></pattern></defs>
+<rect width="1200" height="520" fill="#e8ddbd"/><rect width="1200" height="520" fill="url(#dots)" opacity=".55"/>
+<g fill="none" stroke="#16130f" stroke-width="4" filter="url(#rough)">
+<path d="M65 455 C130 380 185 270 250 170 C310 85 395 55 500 80 C650 116 760 150 887 116 C1007 83 1095 105 1150 160" opacity=".34"/>
+<path d="M90 460 L1120 460"/><path d="M92 62 L1110 62"/>
+</g>
+<g transform="translate(125 120)" stroke="#15130f" fill="none" stroke-width="5" filter="url(#rough)">
+<path d="M160 245V98c0-53 34-86 78-86s78 33 78 86v147" fill="#c79c42"/>
+<path d="M140 245h220"/><path d="M192 320h116"/><path d="M250 245v75"/><path d="M180 92h135M178 125h138M178 158h138M178 192h138" opacity=".75"/>
+<path d="M130 120c-65 20-99 65-112 123"/><path d="M372 120c65 20 99 65 112 123"/>
+</g>
+<g transform="translate(575 105)" fill="#14391f" stroke="#15130f" stroke-width="2.3" filter="url(#rough)">
+<path d="M190 310c-28-88-14-178 38-247-80 28-128 86-146 172-33-56-75-91-133-100 38 52 56 108 50 168-48-34-94-43-145-27 48 22 82 55 104 101-50-3-94 9-132 39 58 2 107 14 145 46h170c4-51 20-100 49-152z" opacity=".9"/>
+<path d="M139 464c20-136 56-265 117-388" fill="none"/>
+</g>
+<g transform="translate(720 140)" fill="none" stroke="#15130f" stroke-width="4" opacity=".75">
+<path d="M0 90h280"/><path d="M0 130h220"/><path d="M0 170h260"/><path d="M0 210h160"/>
+<path d="M0 0c80 40 160 40 240 0"/><path d="M0 40c80 40 160 40 240 0"/>
+</g>
+<text x="64" y="85" font-family="Georgia,serif" font-size="29" font-weight="700" fill="#15130f">THE SUNDAY GROW ROOM EDITION</text>
+<text x="64" y="416" font-family="Georgia,serif" font-size="46" font-weight="900" fill="#15130f">BUD RICH RADIO</text>
+<text x="66" y="456" font-family="Georgia,serif" font-size="22" fill="#14391f" font-weight="700">FROM SEED TO SMOKE • NO MIDS • NO MYTHS</text>
+</svg>

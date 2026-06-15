@@ -1,31 +1,33 @@
-# Bud Rich Radio Website
+# Bud Rich Radio Newspaper Website
 
-A static, Vercel-ready website built from the Bud Rich Radio brand/moderator guide text.
+This is a full static website package built from the Bud Rich Radio text. It uses an old-fashioned newspaper/alternative-weekly theme with original SVG illustrations, multi-page navigation, copyable media spots, print-edition mode, a complete searchable archive of the supplied text, and a responsive layout.
 
-## Files
+## Pages
 
-- `index.html` — full single-page website
-- `styles.css` — responsive design, typography, layout, motion
-- `script.js` — mobile menu and copy buttons for ad spots
+- `index.html` — front page newspaper landing page
+- `bud-rich.html` — Bud Rich philosophy
+- `shows.html` — show/segment structure
+- `moderator.html` — moderator guidebook and SOPs
+- `media-kit.html` — slogans, 8/30/60 second ad spots, copy buttons
+- `production.html` — visual direction, video ad timing, Man in the Box notes
+- `full-guide.html` — complete supplied text preserved and searchable
 
 ## Deploy on Vercel
 
-1. Create a new Vercel project.
-2. Upload this folder or connect it to a GitHub repository.
-3. No build command is needed.
-4. Set the output directory to the project root if asked.
+Upload the folder as a static site. No build command is needed. The project root is the output directory.
 
-## What to customize next
+## Bells and whistles included
 
-- Replace `hello@budrichradio.com` with the real contact email.
-- Add real podcast/video embeds when available.
-- Add a logo image if you have one. The current BRR mark is CSS/text-based.
-- Add platform links: YouTube, Spotify, Apple Podcasts, Rumble, Discord, etc.
-- Add episode pages or convert this to a Next.js project if you want CMS/blog features later.
+- Newspaper masthead and front-page layout
+- Original SVG illustrations in `/assets`
+- Print Edition button
+- Copy buttons for ad scripts
+- Searchable complete text archive
+- Responsive mobile layout
+- Adult cannabis education positioning
 
-## Brand anchors used
+## Replace later
 
-- Growing knowledge, not just weed.
-- From seed to smoke. No mids. No myths.
-- Grow smarter. Smoke better.
-- Abundance through knowledge.
+- Add real podcast links and video embeds
+- Add official logo files
+- Replace contact links with the real Bud Rich Radio destinations

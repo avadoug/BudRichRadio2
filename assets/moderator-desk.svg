@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-label="Moderator desk newspaper illustration">
+<defs><pattern id="hatch" width="9" height="9" patternUnits="userSpaceOnUse"><path d="M0 9L9 0" stroke="#16130f" stroke-width="1" opacity=".28"/></pattern><filter id="wobble"><feTurbulence baseFrequency="0.5" numOctaves="3" seed="7"/><feDisplacementMap in="SourceGraphic" scale="1.5"/></filter></defs>
+<rect width="900" height="640" fill="#eadfbe"/><rect width="900" height="640" fill="url(#hatch)" opacity=".38"/>
+<g filter="url(#wobble)" stroke="#15130f" stroke-width="5" fill="none">
+<rect x="80" y="70" width="740" height="350" rx="7" fill="#d6c28f"/>
+<rect x="120" y="105" width="470" height="230" fill="#15130f"/>
+<rect x="620" y="105" width="160" height="230" fill="#15130f"/>
+<path d="M120 365h660"/><path d="M170 462h560"/><path d="M235 462l-60 110h540l-70-110" fill="#bf9b52"/>
+</g>
+<g fill="#d6c28f"><rect x="145" y="130" width="420" height="178"/><rect x="645" y="130" width="110" height="18"/><rect x="645" y="165" width="95" height="18"/><rect x="645" y="200" width="120" height="18"/><rect x="645" y="235" width="75" height="18"/><rect x="645" y="270" width="102" height="18"/></g>
+<g stroke="#14391f" stroke-width="5" fill="none"><path d="M154 245c34-35 67-40 102-7s69 25 106-25 71-42 104 24 65 54 96 11"/><path d="M655 327c10-55 28-105 61-149"/><path d="M716 178c-38 19-61 44-72 77 40-12 68-35 72-77z" fill="#14391f"/><path d="M716 178c39 19 61 44 72 77-40-12-68-35-72-77z" fill="#14391f"/></g>
+<g stroke="#15130f" stroke-width="3" fill="#eadfbe"><rect x="285" y="492" width="48" height="32"/><rect x="352" y="492" width="48" height="32"/><rect x="419" y="492" width="48" height="32"/><rect x="486" y="492" width="48" height="32"/><rect x="553" y="492" width="48" height="32"/><rect x="310" y="542" width="48" height="32"/><rect x="377" y="542" width="48" height="32"/><rect x="444" y="542" width="48" height="32"/><rect x="511" y="542" width="48" height="32"/></g>
+<text x="150" y="96" font-family="Georgia,serif" font-size="31" font-weight="900" fill="#15130f">MAN IN THE BOX</text>
+<text x="640" y="96" font-family="Georgia,serif" font-size="23" font-weight="900" fill="#14391f">LEVELS</text>
+<text x="135" y="396" font-family="Georgia,serif" font-size="27" font-weight="900" fill="#15130f">THE MODERATOR IS THE CALM HAND ON THE WHEEL</text>
+</svg>
